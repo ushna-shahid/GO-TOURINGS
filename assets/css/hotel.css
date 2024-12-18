@@ -923,6 +923,7 @@ swiper-slide img {
     .inputs{
         display: block;
         row-gap:1rem;
+        margin-top:1rem;
     }
     .home-img-opecity  input{
         height: 30px;
