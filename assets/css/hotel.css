@@ -922,7 +922,7 @@ swiper-slide img {
     }
     .inputs{
         display: block;
-        gap:1rem;
+        row-gap:1rem;
     }
     .home-img-opecity  input{
         height: 30px;
@@ -1286,7 +1286,7 @@ swiper-slide img {
     .inputs{
         height: auto;
         display: block;
-        gap:1rem;
+       
     
     }
     .home-img-opecity  input{
@@ -1294,7 +1294,7 @@ swiper-slide img {
         width: 180px;
         padding-top: 2rem ;
         box-sizing: border-box;
-       
+        margin-top:1rem;
     }
     .input-opecity{
         height: 50vh;
